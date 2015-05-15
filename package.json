@@ -1,0 +1,9 @@
+{
+  "name": "firenode-for-nodejs",
+  "version": "0.0.0",
+  "main": "./main.js",
+  "dependencies": {
+    "engine.io": "^1.5.1",
+    "org.firenode.core": "0.x"
+  }
+}
